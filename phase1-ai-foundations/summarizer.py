@@ -1,5 +1,4 @@
 import os
-from urllib import response 
 from dotenv import load_dotenv 
 from google import genai
 
@@ -11,7 +10,7 @@ def main():
     text = input("Enter the text to summarize: ")
     response = client.models.generate_content(
         model="gemini-3.1-flash-lite-preview", 
-        contents=f"Summarize the following text:\n\n{text}"
+        contents=f"Summarize the following text in 3 concise bullet points.:\n\n{text}"
     )
     summary = response.text
     print(f"\nSummary:\n{summary}")
