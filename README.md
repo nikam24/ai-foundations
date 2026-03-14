@@ -4,9 +4,19 @@
 
 ## Phase 1 — AI Foundations
 
-### Text Summarizer
+### 1. Text Summarizer
 
-A CLI tool that summarizes long text using Google's Gemini API.
+CLI tool that summarizes long text using Gemini API.
+
+### 2. AI Chatbot
+
+A simple command-line chatbot built with Gemini API. 
+
+Features:
+
+- interactive chat loop
+- exit command support
+- concise AI responses
 
 ### Tech Stack
 
