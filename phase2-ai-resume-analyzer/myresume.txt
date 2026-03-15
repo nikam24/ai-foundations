@@ -1,0 +1,39 @@
+ALEX RIVERA
++1 (555) 012-3456 | alex.rivera.dev@email.com | ://linkedin.com | ://github.com
+Austin, Texas
+
+SUMMARY
+Dedicated Software Engineer with 4 years of experience specializing in Python automation and AI integration. Passionate about building scalable tools that simplify complex data, with a recent focus on implementing Large Language Models for productivity applications.
+
+SKILLS
+- Languages: Python (Expert), JavaScript, SQL, Bash
+- AI & ML: Google GenAI SDK, OpenAI API, LangChain, Prompt Tuning
+- Tools: Git, Docker, PostgreSQL, Linux, Virtualenv
+- Cloud: Google Cloud Platform (GCP), AWS Lambda
+
+EXPERIENCE
+Full Stack Developer | Nexus Tech Solutions
+Jan 2022 – Present
+- Architected a custom internal knowledge base using the Gemini 1.5 Flash API to index over 5,000 technical documents.
+- Reduced cloud infrastructure costs by 15% by optimizing API request batches and implementing local caching.
+- Led a team of three junior developers in migrating a legacy PHP codebase to a modern FastAPI architecture.
+- Designed automated testing suites that improved code deployment reliability by 40%.
+
+Junior Data Analyst | ClearStream Analytics
+June 2020 – Dec 2021
+- Developed Python scripts to automate weekly reporting, reducing manual data processing time by 12 hours per week.
+- Built interactive data dashboards using Streamlit to help stakeholders visualize regional sales trends.
+- Cleaned and organized multi-terabyte datasets to ensure high accuracy for machine learning model training.
+
+PROJECTS
+Smart-Summarize CLI | ://github.com/summarizer
+- Created a robust Command Line Interface tool that generates meaningful 6-line summaries of long-form articles.
+- Integrated comprehensive error handling for API rate limits (429 errors) to ensure uninterrupted service.
+
+EDUCATION
+B.S. in Computer Science | University of Texas at Austin
+Graduated 2020
+
+CERTIFICATIONS
+- Google Professional Machine Learning Engineer
+- AWS Certified Developer – Associate
