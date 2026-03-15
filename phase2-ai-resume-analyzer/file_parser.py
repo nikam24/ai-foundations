@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 from docx import Document
-from fastapi import UploadFile, HttpException
+from fastapi import UploadFile, HTTPException
 
 async def extract_text(file: UploadFile) -> str:
     filename = file.filename.lower()
